@@ -1,4 +1,0 @@
-message  =$c009
-loop  =$c003
-init_text  =$c031; ?
-loop_text  =$c033
